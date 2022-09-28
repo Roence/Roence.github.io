@@ -673,13 +673,13 @@ section.about{
 }
 
 .about .section-header {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     margin-left: 0;
 }
 
 .about .about-img {
     width: 100%;
-    height: 100vh;
+    height: 70vh;
 }
 
 .about .about-tab {
